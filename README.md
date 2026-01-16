@@ -15,14 +15,15 @@ Actualmente tengo dos proyectos publicados en GitHub:
 
 - [📝 Blog personal](https://github.com/Asflum99/personal-webpage): donde publico entradas sobre mi proceso de aprendizaje como programador autodidacta.
 - [⏲ Chef Alarm](https://github.com/Asflum99/Chef-Alarm): una app móvil para temporizar la cocción de alimentos. Fue mi primer proyecto; tengo planes de rehacerla más adelante.
+- [ExpenseTracker](https://github.com/Asflum99/expense-tracker): Una app móvil que registra los gastos del día hecho en billeteras digitales como Yape o Plin y los exporta en un archivo CSV.
 
 ## 📱 Actualmente estoy...
 
-Desarrollando una app móvil que registra los gastos del día y los exporta en un archivo CSV. Este proyecto me está retando a aprender:
+Trabajando en [Agenda Cultural](https://github.com/Asflum99/agenda-cultural), una página web donde recopilo las películas que diversos centros culturales de Lima (Perú) proyectan de manera gratuita. Este proyecto me está retando a aprender lo siguiente:
 
-- Cómo usar IA para categorizar automáticamente los gastos.
-- Cómo crear una API propia para integrarla con esa IA.
-- Cómo interactuar con la API de Gmail para obtener datos de los correos.
+- Cómo trabajar con Reflex, un framework que permite construir Backend y Frontend con puro Python.
+- Cómo integrar una API externa, en este caso la de TMDB, para recuperar los pósters de las películas.
+- Cómo desplegar y mantener el servidor EC2 de AWS para que la página esté disponible 24/7.
 
 ## 📬 ¿Dónde encontrarme?
 
